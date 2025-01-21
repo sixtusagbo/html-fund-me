@@ -79,3 +79,7 @@ async function getBalance() {
     balanceButton.innerHTML = "Please install MetaMask"
   }
 }
+
+// cast sig "fund()"
+// 0xb60d4288
+// 0xb60d4288
